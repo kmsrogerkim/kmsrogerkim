@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **backend development using DJANGO!**
 
+- 📒 I regularly post my journey to becoming a dev in my [🖊️blog](https://rogerkimjazzlover.github.io/)
+
 <h3 align="center">Backend Skills</h3>
 <p align="center">
    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>    
