@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roger Kim!</h1>
-<h3 align="center">A student interested a variety of topics, ranging from data analysis to backend development.</h3>
+<h3 align="center">A student interested data analysis and backend development using python!</h3>
 
 - 🔭 I’m currently insterested in [data manipulation with python!](https://github.com/RogerKimJazzLover/NAVER_shopping_insight.git)
 
-- 🌱 I’m currently learning **backend development using DJANGO!**
+- 🌱 I’m currently studying **backend development using DJANGO!**
 
 - 📒 I regularly post my journey to becoming a dev in my [🖊️blog](https://rogerkimjazzlover.github.io/)
 
