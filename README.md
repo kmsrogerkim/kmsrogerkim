@@ -27,7 +27,7 @@
 
 <h3 align="center">Other Skills</h3>
 <p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height=100, width=100/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height=50, width=50/>
    <img src="https://skillicons.dev/icons?i=html,css,pr"/>
 </p>
 <hr/>
