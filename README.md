@@ -15,7 +15,7 @@
   
 <h3 align="center">General Purpose Language</h3>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=python,c,c++,c#"/>
+   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs"/>
 </p>
 <hr/>
 
@@ -28,6 +28,7 @@
 <h3 align="center">Other Skills</h3>
 <p align="center">
    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+   <img src="https://skillicons.dev/icons?i=html,css,pr"/>
 </p>
 <hr/>
 
