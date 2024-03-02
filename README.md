@@ -1,7 +1,3 @@
-<header>
-   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</header>
-
 <h1 align="center">Hi 👋, I'm Roger Kim!</h1>
 <h3 align="center">A student interested data analysis and backend development using python!</h3>
 
@@ -31,8 +27,7 @@
 
 <h3 align="center">Other Skills</h3>
 <p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-line-wordmark.svg" height=50, width=50/>
-   <i class="devicon-pandas-plain-wordmark"></i>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height=50, width=50/>
    <img src="https://skillicons.dev/icons?i=html,css,pr"/>
 </p>
 <hr/>
