@@ -1,6 +1,6 @@
-<style>
+<header>
    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</style>
+</header>
 
 <h1 align="center">Hi 👋, I'm Roger Kim!</h1>
 <h3 align="center">A student interested data analysis and backend development using python!</h3>
