@@ -15,7 +15,7 @@
   
 <h3 align="center">General Purpose Language</h3>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs"/>
+   <img src="https://skillicons.dev/icons?i=python,c,cpp"/>
 </p>
 <hr/>
 
