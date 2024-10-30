@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roger Kim!</h1>
-<h3 align="center">A student interested data analysis and backend development using python!</h3>
-
-- 🔭 I’m currently insterested in [data manipulation with python!](https://github.com/RogerKimJazzLover/PYTHON-Corporate-Data-Analysis.git)
-
-- 🌱 I’m currently studying **backend development using DJANGO!**
-
-- 📒 I regularly post my journey to becoming a dev in my [🖊️blog](https://rogerkimjazzlover.github.io/)
+<h3 align="center">
+   A student interested data analysis and backend development using python! 🔭 I’m currently insterested in <a href=https://github.com/kmsrogerkim/PYTHON-Corporate-Data-Analysis.git>data manipulation with python!</a> 🌱 I’m currently studying <b>backend development using DJANGO!</b> 📒 I regularly post my journey to becoming a dev in my <a href=https://kmsrogerkim.github.io/>🖊️blog</a> 
+</h3>
 
 <h3 align="center">Backend Skills</h3>
 <p align="center">
