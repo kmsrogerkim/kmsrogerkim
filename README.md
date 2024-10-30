@@ -3,19 +3,19 @@
    A student interested data analysis and backend development using python! 🔭 I’m currently insterested in <a href=https://github.com/kmsrogerkim/PYTHON-Corporate-Data-Analysis.git>data manipulation with python!</a> 🌱 I’m currently studying <b>backend development using DJANGO!</b> 📒 I regularly post my journey to becoming a dev in my <a href=https://kmsrogerkim.github.io/>🖊️blog</a> 
 </h3>
 
-<h3 align="center">Backend Skills</h3>
+<h3 align="center"> 🖥️ Backend Skills</h3>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=django,mysql,postgresql"/>
 </p>
 <hr/>
   
-<h3 align="center">General Purpose Language</h3>
+<h3 align="center"> 🔠 General Purpose Language</h3>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=python,c,cpp"/>
 </p>
 <hr/>
 
-<h3 align="center">DevOps Skills</h3>
+<h3 align="center"> ♾️ DevOps Skills</h3>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github"/>
 </p>
