@@ -23,7 +23,7 @@
 
 <h3 align="center">Other Skills</h3>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,pr,tensorflow"/>
+   <img src="https://skillicons.dev/icons?i=html,css,pr,pytorch"/>
    <br>
    <br>
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPePf0eI9lrP20Ym-P0v-_B2yB6IHRoQiWw&s" height=50, width=108/>
