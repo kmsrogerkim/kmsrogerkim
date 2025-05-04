@@ -15,18 +15,6 @@
    <img src="https://skillicons.dev/icons?i=aws,docker,django,postgresql"/>
 </p>
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <div style="text-align: center; margin: 10px;">
-    <h3>🖥️ Backend Skills</h3>
-    <img src="https://skillicons.dev/icons?i=aws,docker,django,postgresql"/>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <h3>🔠 Languages</h3>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java"/>
-  </div>
-</div>
-
-
 <h3 align="center">Other Skills</h3>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=html,css,pr,pytorch,selenium"/>
