@@ -5,19 +5,19 @@
 
 <h3 align="center"> 🖥️ Backend Skills</h3>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=django,mysql,postgresql"/>
+   <img src="https://skillicons.dev/icons?i=django,postgresql"/>
 </p>
 <hr/>
   
 <h3 align="center"> 🔠 General Purpose Language</h3>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=python,c,cpp"/>
+   <img src="https://skillicons.dev/icons?i=python,c,cpp,java"/>
 </p>
 <hr/>
 
 <h3 align="center"> ♾️ DevOps Skills</h3>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github"/>
+   <img src="https://skillicons.dev/icons?i=aws,docker,bash,github"/>
 </p>
 <hr/>
 
