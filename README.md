@@ -5,23 +5,15 @@
    📒 I regularly post my journey to becoming a dev in my <a href=https://kmsrogerkim.github.io/>🖊️blog.</a>
 </h3>
 
-<h3 align="center"> 🖥️ Backend Skills</h3>
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=django,postgresql"/>
-</p>
-<hr/>
-  
 <h3 align="center"> 🔠 General Purpose Language</h3>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=python,c,cpp,java"/>
 </p>
-<hr/>
 
-<h3 align="center"> ♾️ DevOps Skills</h3>
+<h3 align="center"> 🖥️ Backend Skills</h3>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=aws,docker,bash,github"/>
+   <img src="https://skillicons.dev/icons?i=aws,docker,django,postgresql"/>
 </p>
-<hr/>
 
 <h3 align="center">Other Skills</h3>
 <p align="center">
