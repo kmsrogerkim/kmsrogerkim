@@ -5,7 +5,7 @@
    📒 I regularly post my journey to becoming a dev in my <a href=https://kmsrogerkim.github.io/>🖊️blog.</a>
 </h3>
 
-<h3 align="center"> 🔠 General Purpose Language</h3>
+<h3 align="center"> 🔠 Languages</h3>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=python,c,cpp,java"/>
 </p>
