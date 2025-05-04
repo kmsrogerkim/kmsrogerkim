@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roger Kim!</h1>
 <h3 align="center">
-   🔭 A CS student interested <b>Backend Development and Machine Learning.</b> 
-   🌱 I’m also studying computer vision.
-   📒 I regularly post my journey to becoming a dev in my <a href=https://kmsrogerkim.github.io/>🖊️blog.</a> 
+   🔭 A CS student interested <b>Backend Development and Machine Learning.</b> <br>
+   🌱 I’m also studying computer vision. <br>
+   📒 I regularly post my journey to becoming a dev in my <a href=https://kmsrogerkim.github.io/>🖊️blog.</a>
 </h3>
 
 <h3 align="center"> 🖥️ Backend Skills</h3>
