@@ -25,10 +25,15 @@
 - 🌱 An enthusiast studying **Machine Learning,** especially **Computer Vision!**
 - 📒 A writer who posts his journey to becoming a dev. Checkout my <a href=https://kmsrogerkim.github.io/>🖊️blog.</a>!
 
-<h3 align="center">Most used langauges
+
+
+<h3 align="center">
 <br><br/>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmsrogerkim&show_icons=true&locale=en&layout=compact" alt="kmsrogerkim" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmsrogerkim&show_icons=true&theme=dark&locale=en&layout=compact" alt="kmsrogerkim" />
+</p>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=kmsrogerkim&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
 </h3>
 
