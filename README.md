@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roger Kim!</h1>
 
+### Who Am I?
+- 🔭 A CS student interested **Backend Development** including **MLOps!**
+- 🌱 An enthusiast studying **Machine Learning,** especially **Computer Vision!**
+- 📒 A writer who posts his journey to becoming a dev. Checkout my <a href=https://kmsrogerkim.github.io/>🖊️blog.</a>!
+
+<br>
 
 <h3 align="center"> 🔠 Languages</h3>
 <p align="center">
@@ -19,13 +25,6 @@
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPePf0eI9lrP20Ym-P0v-_B2yB6IHRoQiWw&s" height=50, width=108/>
 </p>
 <hr/>
-
-### Who Am I?
-- 🔭 A CS student interested **Backend Development** including **MLOps!**
-- 🌱 An enthusiast studying **Machine Learning,** especially **Computer Vision!**
-- 📒 A writer who posts his journey to becoming a dev. Checkout my <a href=https://kmsrogerkim.github.io/>🖊️blog.</a>!
-
-
 
 <h3 align="center">
 <br><br/>
