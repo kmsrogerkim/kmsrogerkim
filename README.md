@@ -32,9 +32,6 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmsrogerkim&show_icons=true&theme=dark&locale=en&layout=compact" alt="kmsrogerkim" />
 </p>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kmsrogerkim&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</p>
 </h3>
 
 <p align="center">
