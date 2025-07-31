@@ -31,9 +31,7 @@
 </h3>
 
 <p align="center">
-   <a href="https://github-readme-streak-stats.herokuapp.com/?user=kmsrogerkim&theme=highcontrast">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmsrogerkim&theme=highcontrast" alt="GitHub Streak" />
-  </a>
+
    <br>
   <a href="https://github.com/kmsrogerkim">
     <img src="https://github-profile-trophy.vercel.app/?username=kmsrogerkim&theme=onedark&row=1&column=4" alt="GitHub Trophies" />
