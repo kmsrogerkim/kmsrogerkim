@@ -31,7 +31,7 @@
 </h3>
 
 <p align="center">
-   <a href="https://github.com/kmsrogerkim">
+   <a href="https://github-readme-streak-stats.herokuapp.com/?user=kmsrogerkim&theme=highcontrast">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmsrogerkim&theme=highcontrast" alt="GitHub Streak" />
   </a>
    <br>
