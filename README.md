@@ -24,18 +24,8 @@
 </p>
 <hr/>
 
-<h3 align="center">
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmsrogerkim&show_icons=true&theme=dark&locale=en&layout=compact" alt="kmsrogerkim" />
-</p>
-</h3>
-
 <p align="center">
   <a href="https://github-readme-streak-stats-eight.vercel.app/?user=kmsrogerkim&theme=highcontrast">
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kmsrogerkim&theme=highcontrast" alt="GitHub Streaks" />
-  </a>
-   <br>
-  <a href="https://github.com/kmsrogerkim">
-    <img src="https://github-profile-trophy.vercel.app/?username=kmsrogerkim&theme=onedark&row=1&column=4" alt="GitHub Trophies" />
   </a>
 </p>
