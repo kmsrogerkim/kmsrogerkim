@@ -2,13 +2,38 @@
 [![Blog Badge](https://img.shields.io/badge/-Blog-FCF0DA?style=flat-square&logo=bookstack&logoColor=2A1A0E)](https://kmsrogerkim.github.io)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white)](https://www.github.com/kmsrogerkim)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kms_rgr.k/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logoColor=white&)](https://www.linkedin.com/in/kmsrogerkim/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-grey?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjY0IiB3aWR0aD0iNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDM4MiAzODIiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxwYXRoIHN0eWxlPSJmaWxsOiMwMDc3YjciIGQ9Ik0zNDcuNDQ1IDBIMzQuNTU1QzE1LjQ3MSAwIDAgMTUuNDcxIDAgMzQuNTU1djMxMi44ODlDMCAzNjYuNTI5IDE1LjQ3MSAzODIgMzQuNTU1IDM4MmgzMTIuODg5QzM2Ni41MjkgMzgyIDM4MiAzNjYuNTI5IDM4MiAzNDcuNDQ0VjM0LjU1NUMzODIgMTUuNDcxIDM2Ni41MjkgMCAzNDcuNDQ1IDB6TTExOC4yMDcgMzI5Ljg0NGMwIDUuNTU0LTQuNTAyIDEwLjA1Ni0xMC4wNTYgMTAuMDU2SDY1LjM0NWMtNS41NTQgMC0xMC4wNTYtNC41MDItMTAuMDU2LTEwLjA1NlYxNTAuNDAzYzAtNS41NTQgNC41MDItMTAuMDU2IDEwLjA1Ni0xMC4wNTZoNDIuODA2YzUuNTU0IDAgMTAuMDU2IDQuNTAyIDEwLjA1NiAxMC4wNTZ2MTc5LjQ0MXpNODYuNzQ4IDEyMy40MzJjLTIyLjQ1OSAwLTQwLjY2Ni0xOC4yMDctNDAuNjY2LTQwLjY2NlM2NC4yODkgNDIuMSA4Ni43NDggNDIuMXM0MC42NjYgMTguMjA3IDQwLjY2NiA0MC42NjYtMTguMjA2IDQwLjY2Ni00MC42NjYgNDAuNjY2ek0zNDEuOTEgMzMwLjY1NGE5LjI0NyA5LjI0NyAwIDAgMS05LjI0NiA5LjI0NkgyODYuNzNhOS4yNDcgOS4yNDcgMCAwIDEtOS4yNDYtOS4yNDZ2LTg0LjE2OGMwLTEyLjU1NiAzLjY4My01NS4wMjEtMzIuODEzLTU1LjAyMS0yOC4zMDkgMC0zNC4wNTEgMjkuMDY2LTM1LjIwNCA0Mi4xMXY5Ny4wNzlhOS4yNDYgOS4yNDYgMCAwIDEtOS4yNDYgOS4yNDZoLTQ0LjQyNmE5LjI0NyA5LjI0NyAwIDAgMS05LjI0Ni05LjI0NlYxNDkuNTkzYTkuMjQ3IDkuMjQ3IDAgMCAxIDkuMjQ2LTkuMjQ2aDQ0LjQyNmE5LjI0NyA5LjI0NyAwIDAgMSA5LjI0NiA5LjI0NnYxNS42NTVjMTAuNDk3LTE1Ljc1MyAyNi4wOTctMjcuOTEyIDU5LjMxMi0yNy45MTIgNzMuNTUyIDAgNzMuMTMxIDY4LjcxNiA3My4xMzEgMTA2LjQ3MnY4Ni44NDZ6Ii8+PC9zdmc+&logoColor=white&)](https://www.linkedin.com/in/kmsrogerkim/)
 
 
-### Who Am I?
-- 🔭 A CS student interested **Backend Development** including **MLOps!**
-- 🌱 An enthusiast studying **Machine Learning,** especially **Computer Vision!**
-- 📒 A writer who posts his journey to becoming a dev. Checkout my <a href=https://kmsrogerkim.github.io/>🖊️blog.</a>!
+### Welcome!
+
+Hi, I'm a Computer Science student at Hanyang University, interested in building practical software and exploring how things work under the hood. My interests span backend development, cloud infrastructure, and machine learning, with a focus on turning ideas into real-world solutions.
+
+### 📜 Background
+
+- Computer Science student at **Hanyang University**
+- Experienced with Python, C/C++, Java, and more
+- Hands-on experience building REST APIs with Django and Django REST Framework
+- Worked with AWS, Docker, and GitHub Actions
+- 10 months of research experience applying deep learning to real-world problems
+- Startup project experience in collaborative, Agile team environments
+
+### 🤩 Current Interests
+
+- **Backend Engineering:** Designing reliable APIs, backend systems, and scalable services
+- **Cloud & Infrastructure:** Exploring AWS, Docker, CI/CD, and cloud-native architectures
+- **Machine Learning:** Applying deep learning to practical problems and exploring ML engineering
+- **Software Engineering:** Writing maintainable code, designing good systems, and learning engineering best practices
+- **Teamwork & Collaboration:** Building useful products through iterative development and effective teamwork
+
+### 👾 Beyond Code
+
+- I'm naturally curious and enjoy understanding how things work, from software systems to everyday technology.
+- I enjoy exploring new technologies and finding practical ways to apply what I learn.
+- I'm a film enthusiast who enjoys discovering and thinking about movies.
+- Outside of tech, I'm working on improving my running and swimming.
+
+## :nut_and_bolt: Tech Stacks
 
 <h3 align="left"> 🔠 Languages</h3>
 
