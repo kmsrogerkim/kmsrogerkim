@@ -7,31 +7,25 @@
 
 ### Welcome!
 
-Hi, I'm a Computer Science student at Hanyang University, interested in building practical software and exploring how things work under the hood. My interests span backend development, cloud infrastructure, and machine learning, with a focus on turning ideas into real-world solutions.
+Hi! I'm a Computer Science student at Hanyang University, interested in building practical software and understanding how things work under the hood.
 
-### 📜 Background
+### 🌱 Background
+- Experience with Python, C/C++, Java, and Django REST Framework
+- Hands-on experience with AWS, Docker, and GitHub Actions
+- 10 months of research applying deep learning to real-world problems
+- Startup experience with Agile development and team collaboration
 
-- Computer Science student at **Hanyang University**
-- Experienced with Python, C/C++, Java, and more
-- Hands-on experience building REST APIs with Django and Django REST Framework
-- Worked with AWS, Docker, and GitHub Actions
-- 10 months of research experience applying deep learning to real-world problems
-- Startup project experience in collaborative, Agile team environments
+### 🎯 Current Interests
+- **Backend Engineering:** APIs, system design, and scalability
+- **Cloud & DevOps:** AWS, Docker, and CI/CD
+- **Machine Learning:** Deep learning and ML engineering
+- **Software Engineering:** Clean code and best practices
 
-### 🤩 Current Interests
+### 🧔 Beyond Code
+- 🎬Film enthusiast who enjoys discovering and analyzing movies
+- 🏃Working on improving my running and swimming
+- 🔍Naturally curious and always eager to learn
 
-- **Backend Engineering:** Designing reliable APIs, backend systems, and scalable services
-- **Cloud & Infrastructure:** Exploring AWS, Docker, CI/CD, and cloud-native architectures
-- **Machine Learning:** Applying deep learning to practical problems and exploring ML engineering
-- **Software Engineering:** Writing maintainable code, designing good systems, and learning engineering best practices
-- **Teamwork & Collaboration:** Building useful products through iterative development and effective teamwork
-
-### 👾 Beyond Code
-
-- I'm naturally curious and enjoy understanding how things work, from software systems to everyday technology.
-- I enjoy exploring new technologies and finding practical ways to apply what I learn.
-- I'm a film enthusiast who enjoys discovering and thinking about movies.
-- Outside of tech, I'm working on improving my running and swimming.
 
 ## :nut_and_bolt: Tech Stacks
 
